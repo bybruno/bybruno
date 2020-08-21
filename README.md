@@ -10,7 +10,7 @@
   <img align="left" alt="Deepak's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
 
-<a href="https://www.instagram.com/bybrunodotdev">
+<a href="https://www.instagram.com/bybruno.dev">
   <img align="left" alt="Deepak's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
