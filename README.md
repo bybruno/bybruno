@@ -1,4 +1,4 @@
-## Hi 👋, I'm Bruno Farias, a Front End Engineer ##
+## Hi 👋, I'm Bruno, a Front End Engineer ##
 
 <a href="https://www.linkedin.com/in/bybruno">
   <img align="left" alt="Deepak's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
