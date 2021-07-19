@@ -19,8 +19,6 @@
 ----------------------------------------------------------------------------------------------------------------------------
 Development, design of web and mobile applications for startups and large companies. 
 
-<img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-
 - 🔭 I’m currently working on ReactJS and React Native.
 - 📫 Read my blogs: [https://dev.to/bybruno](https://dev.to/bybruno)
 
