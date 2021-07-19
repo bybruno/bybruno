@@ -1,22 +1,5 @@
 ## Hi 👋, I'm Bruno, a Front-End Engineer ##
 
-<a href="https://www.linkedin.com/in/bybruno">
-  <img align="left" alt="Deepak's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://twitter.com/bybrunodotdev">
-  <img align="left" alt="Deepak's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://medium.com/@bybruno">
-  <img align="left" alt="Deepak's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
-</a>
-
-<a href="https://www.instagram.com/bybruno.dev">
-  <img align="left" alt="Deepak's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-
-&nbsp;
-
-----------------------------------------------------------------------------------------------------------------------------
 Development, design of web and mobile applications for startups and large companies. 
 
 - 🔭 I’m currently working on ReactJS and React Native.
