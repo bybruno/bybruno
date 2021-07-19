@@ -2,8 +2,8 @@
 
 Development, design of web and mobile applications for startups and large companies. 
 
-- 🔭 I’m currently working on ReactJS and React Native.
-- 📫 Read my blogs: [https://dev.to/bybruno](https://dev.to/bybruno)
+- 🔭 &nbsp; I’m currently working on ReactJS and React Native.
+- 📫 &nbsp; Read my blogs: [https://dev.to/bybruno](https://dev.to/bybruno)
 
 ### Skills ###
 ----------------------------------------------------------------------------------------------------------------------------
